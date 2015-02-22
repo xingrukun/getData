@@ -16,4 +16,4 @@ which contains all the files needed to run this script.
 7.Change the variable values of 'activity' by 'gsub' command;
 8.Create a subset vector which matches the 'mean' and 'std' columns of data.frame;
 9.Generate the final dataset using 'group_by', 'summarise_each' commands;
-10.write the tidy data into text file and clean up the working directory.
+10.Write the tidy data into text file and clean up the working directory.
